@@ -1,12 +1,14 @@
-
-/* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+.clock-indices{
+    margin-top: 5%;
+    color: rgb(0, 184, 184);
+    width: 50%;
+    height: 200px;
+    text-align: Center;
+    padding-top: 20px;
+}
+.clock-BG{
+    background:greenyellow;
+}
+body{padding: 25px;
+    background-color: orange;
+}
